@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="github-stats-vitor.vercel.app/api/top-langs?username=vitorcosta30&layout=compact&langs_count=8&card_width=320">
+<img src="https://github-stats-vitor.vercel.app/api/top-langs?username=vitorcosta30&layout=compact&langs_count=8&card_width=320">
 <!--
 **vitorcosta30/vitorcosta30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
